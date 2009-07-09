@@ -1,6 +1,0 @@
-= irobat
-
-
-== Copyright
-
-Copyright (c) 2009 Joseph Wilk. See LICENSE for details.
