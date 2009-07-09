@@ -1,6 +1,5 @@
-= irobat2
+= irobat
 
-Description goes here.
 
 == Copyright
 
