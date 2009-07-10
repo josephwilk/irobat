@@ -16,7 +16,7 @@ module IRobat
     sleep(2)
   end
   
-  def self.shutdown_iphone_coach
+  def self.shutdown_iphone_coordinator
     Curl::Easy.http_post 'http://localhost:3001/', 'q=' + CGI.escape(Phone::Command.empty)
   end
   
