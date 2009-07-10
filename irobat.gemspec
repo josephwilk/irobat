@@ -6,26 +6,26 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Joseph Wilk"]
-  s.date = %q{2009-07-09}
+  s.date = %q{2009-07-10}
   s.email = %q{joe@josephwilk.net}
   s.extra_rdoc_files = [
     "LICENSE",
-     "README.rdoc"
+     "README"
   ]
   s.files = [
     ".document",
      ".gitignore",
      "LICENSE",
-     "README.rdoc",
+     "README",
      "Rakefile",
      "VERSION",
+     "irobat.gemspec",
      "lib/irobat.rb",
      "lib/irobat/iphone_world.rb",
      "lib/irobat/phone.rb",
      "lib/irobat/phone_driver.rb",
-     "lib/server/coach.rb",
-     "lib/server/quarterback.rb",
-     "lib/server/result.txt"
+     "lib/server/instructor.rb",
+     "lib/server/receiver.rb"
   ]
   s.has_rdoc = true
   s.homepage = %q{http://github.com/josephwilk/irobat2}
